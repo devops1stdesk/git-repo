@@ -1,1 +1,3 @@
-# git-repo
+
+/usr/bin/bash: 
+my name vinod
